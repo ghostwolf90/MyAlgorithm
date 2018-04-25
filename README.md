@@ -1,1 +1,3 @@
-# MyAlgorithm
+# 我的演算法練習
+
+1.Stock 堆疊
